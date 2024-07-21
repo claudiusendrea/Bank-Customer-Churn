@@ -1,6 +1,7 @@
 Churn rate analysis project
 
-This is a case study. The data was provided by Kaggle.com. The goal is to showcase my thought process and my proficiency with specific tools used to tackle the business question. My decisions would likely differ, in a real-world scenario, particularly when collaborating with more experienced team members.
+This is a case study. The data was provided by Kaggle.com. Each row in the dataset represents an individual customer and includes various features or attributes that describe them. 
+The goal is to showcase my thought process and my proficiency with specific tools used to tackle the business question. My decisions would likely differ, in a real-world scenario, particularly when collaborating with more experienced team members.
 Customer churn is crucial to manage because acquiring new customers is more expensive than retaining existing ones. Effective customer retention enhances the average lifetime value of customers, making future sales more valuable and improving profit margins.
 Maximizing a company's resources often involves boosting revenue from recurring subscriptions and repeat business, rather than focusing on new customer acquisition. Retaining loyal customers over the years facilitates growth and provides stability during financial hardships, as opposed to constantly spending to replace lost customers.
 This project aims to provide stakeholders with an intuitive, visually appealing interface to easily explore and understand key banking metrics. By incorporating both Excel and Tableau, the project offers flexibility to accommodate diverse user preferences and needs. 
