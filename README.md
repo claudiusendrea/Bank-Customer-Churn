@@ -17,7 +17,7 @@ The first project step is to clean the data thoroughly using Excel to ensure acc
 
 Findings:
 
-Customers aged 46-65 show a significantly higher tendency to leave the bank compared to other age groups. Germany exhibits the highest churn rate, exceeding 32%, which is double that of France and Spain. Customers with three or four products are more likely to leave than those with fewer products. Customers with very few points tend to leave the bank more frequently. While churn rates do not vary across different card types, customers who have filed complaints are more likely to leave than those who have not. Female customers report higher complaint and churn rates compared to male customers.
+Customers aged 46-65 show a significantly higher tendency to leave the bank compared to other age groups. Germany exhibits the highest churn rate, exceeding 32%, which is double that of France and Spain. Customers with only 2 products have the lowest churn rate, while those with 3 or 4 products have extremely high churn rates. Customers with very few points tend to leave the bank more frequently. While churn rates do not vary across different card types, customers who have filed complaints are more likely to leave than those who have not. Female customers report higher complaint and churn rates compared to male customers.
 
 Project
 
